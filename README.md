@@ -1,2 +1,2 @@
 # buscador-de-noticias-react
-buscador de noticas hecho con react y consumiendo una API
+buscador de noticas hecho con react, tomando las noticas con una api usando axios.
