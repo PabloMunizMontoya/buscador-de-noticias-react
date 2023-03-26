@@ -19,7 +19,7 @@ const Formulario = ({guardarCategoria}) => {
 
     const buscarNoticias = e => {
 
-        e.preventDefault
+        e.preventDefault()
 
         guardarCategoria(categoria)
     }
