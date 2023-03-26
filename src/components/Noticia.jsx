@@ -9,7 +9,7 @@ const Noticia = ({noticia}) => {
             <div className='card'>
                 <div className='card-image'>
                     <img src={urlToImage} alt={title}/>
-                     <span className='card-title'>{source.name}</span> 
+                    <span className='card-title'>{source.name}</span> 
                 </div>
                 <div className='card-content'>
                     <h5>{title}</h5>
